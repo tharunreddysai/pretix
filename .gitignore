@@ -26,3 +26,5 @@ local/
 .DS_Store
 
 
+# redis-data/
+# postgres-data/
