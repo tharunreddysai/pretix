@@ -26,5 +26,7 @@ local/
 .DS_Store
 
 
-# redis-data/
-# postgres-data/
+redis-data/
+postgres-data/
+*.pdf
+*.png
